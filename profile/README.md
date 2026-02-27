@@ -49,10 +49,4 @@ Ferramenta interna para consulta e visualização de dados históricos (janeiro/
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-
-## 📄 Licença
-
-Este projeto está licenciado sob a **Licença MIT**.
-
----
 **Paulo Rocha Barra Advogados Associados** *Inovação a serviço da justiça.*
