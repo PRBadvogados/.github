@@ -52,10 +52,12 @@ Ferramenta interna para consulta e visualização de dados históricos (janeiro/
 
 ## 👥 Equipe de Desenvolvimento
 
-![Adailton Junior Novais Mafra](https://img.shields.io/badge/Adailton_Junior_Novais_Mafra-00008B?style=flat-square)
-![Gabriel Dias Borges da Mota](https://img.shields.io/badge/Gabriel_Dias_Borges_da_Mota-00008B?style=flat-square)
-![Marcus Vinnycius Barbosa Oliveira](https://img.shields.io/badge/Marcus_Vinnycius_Barbosa_Oliveira-00008B?style=flat-square)
-![Pedro Andrade](https://img.shields.io/badge/Pedro_Andrade-00008B?style=flat-square)
+| Desenvolvedor | Função |
+| :--- |
+| **Marcus Vinnycius Barbosa Oliveira** | 
+| **Adailton Junior Novais Mafra** | 
+| **Gabriel Dias Borges da Mota** | 
+| **Pedro Andrade** | 
 
 ---
 
