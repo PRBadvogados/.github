@@ -54,10 +54,10 @@ Ferramenta interna para consulta e visualização de dados históricos (janeiro/
 
 | Desenvolvedor | Função |
 | :--- | :--- |
-| **Adailton Junior Novais Mafra** | Engenharia de Software / RPA |
-| **Gabriel Dias Borges da Mota** | Backend & Database Specialist |
-| **Marcus Vinnycius Barbosa Oliveira** | Fullstack & Systems Integration |
-| **Pedro Andrade** | Quality Assurance & Data Analysis |
+| **Marcus Vinnycius Barbosa Oliveira** | 
+| **Adailton Junior Novais Mafra** | 
+| **Gabriel Dias Borges da Mota** | 
+| **Pedro Andrade** | 
 
 ---
 
