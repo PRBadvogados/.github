@@ -50,17 +50,6 @@ Ferramenta interna para consulta e visualização de dados históricos (janeiro/
 
 ---
 
-## 👥 Equipe de Desenvolvimento
-
-| Desenvolvedor | Função |
-| :--- |
-| **Marcus Vinnycius Barbosa Oliveira** | 
-| **Adailton Junior Novais Mafra** | 
-| **Gabriel Dias Borges da Mota** | 
-| **Pedro Andrade** | 
-
----
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a **Licença MIT**.
