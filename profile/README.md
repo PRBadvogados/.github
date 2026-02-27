@@ -1,4 +1,7 @@
-# ⚖️ PAULO ROCHA BARRA ADVOGADOS ASSOCIADOS  
+# ⚖️ Paulo Rocha Barra Advogados Associados
+
+![Status: Operacional](https://img.shields.io/badge/Status-Operacional-success?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 A **PAULO ROCHA BARRA ADVOGADOS ASSOCIADOS** une a excelência e a tradição do direito consultivo e contencioso com uma visão estratégica voltada para o futuro. Reconhecendo o papel fundamental da tecnologia na otimização dos serviços jurídicos, investimos continuamente em **inovação** e **desenvolvimento de software** para transformar a maneira como gerimos processos e entregamos valor aos nossos clientes.
 
@@ -8,63 +11,59 @@ Nossa equipe de desenvolvimento trabalha lado a lado com nossos especialistas ju
 
 ## 🛠️ Nossas Iniciativas em Tecnologia e Desenvolvimento
 
-O foco em Tecnologia e Desenvolvimento reflete nosso compromisso com a eficiência e a inovação. Utilizamos ferramentas modernas para automatizar tarefas repetitivas, extrair dados com precisão e integrar sistemas críticos — sempre com o objetivo de liberar nossos advogados para atividades estratégicas.
+O foco em Tecnologia e Desenvolvimento reflete nosso compromisso com a eficiência. Utilizamos **RPA (Robotic Process Automation)** e **Business Intelligence** para automatizar tarefas repetitivas, extrair dados com precisão e integrar sistemas críticos.
 
 ---
 
 ## 🔒 Projetos Privados 
 
 ### 🟡 **Automação BBJur**
+**Otimização de Pendências Judiciais**
 
-**Descrição:**  
-A Automação BBJur é uma solução avançada desenvolvida em Python para agilizar e padronizar o tratamento de pendências judiciais no sistema do Banco do Brasil Jurídico. O sistema automatiza a leitura, análise e classificação de informações jurídicas, reduzindo tempo operacional, eliminando erros manuais e permitindo que o usuário acompanhe tudo de forma contínua e confiável.
+Solução avançada desenvolvida para agilizar e padronizar o tratamento de pendências no sistema do Banco do Brasil Jurídico. O sistema automatiza a leitura, análise e classificação de informações, eliminando erros manuais.
 
-**Tecnologias:**  
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/Playwright-yellow?style=for-the-badge&logo=playwright&logoColor=white" alt="" alt="">
-<img src="https://img.shields.io/badge/Pyautogui-yellow?style=for-the-badge&logo=pyautogui&logoColor=white" alt="" alt="">
-<img src="https://img.shields.io/badge/Selenium-yellow?style=for-the-badge&logo=pyautogui&logoColor=white" alt="" alt="">
-
-
-
+**Stack Tecnológica:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
-### 🔴  **AUTOMACAO GCPJ — Gestão e Controle de Processos Jurídicos**
+### 🔴 **Automação GCPJ**
+**Gestão e Controle de Processos Jurídicos**
 
+Automação robusta para processamento de documentos no sistema GCPJ, garantindo alta performance na higienização de dados e movimentação processual em larga escala.
 
-
-**Descrição:**  
-Automação robusta para processamento de documentos no sistema GCPJ (Gestão e Controle de Processos Jurídicos), desenvolvida com Playwright e PyAutoGUI.
-
-**Tecnologias:**  
-<img src="https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/Playwright-red?style=for-the-badge&logo=playwright&logoColor=white" alt="" alt="">
-<img src="https://img.shields.io/badge/Pyautogui-red?style=for-the-badge&logo=pyautogui&logoColor=white" alt="" alt="">
-<img src="https://img.shields.io/badge/Selenium-red?style=for-the-badge&logo=pyautogui&logoColor=white" alt="" alt="">
+**Stack Tecnológica:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-yellow?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 🟠 **Buscador LegalOne — Processos e Movimentações Financeiras**
+### 🟠 **Buscador LegalOne**
+**Data Mining & Movimentações Financeiras**
 
-**Descrição:**  
-Ferramenta interna para consulta e visualização de dados históricos do sistema **LegalOne**, incluindo processos, andamentos e movimentações financeiras entre **janeiro/2016 e junho/2025**.  
-Arquitetura cliente-servidor projetada para garantir acesso seguro ao banco de dados SQL Server.
+Ferramenta interna para consulta e visualização de dados históricos (janeiro/2016 a junho/2025). Arquitetura cliente-servidor projetada para garantir acesso seguro e performático.
 
-**Tecnologias:**    
-<img src="https://img.shields.io/badge/PHP-orange?style=for-the-badge&logo=php&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=playwright&logoColor=white" alt="" alt="">
-<img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=pyautogui&logoColor=white" alt="" alt="">
+**Stack Tecnológica:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 👥 Equipe de Desenvolvimento
+
+| Desenvolvedor | Função |
+| :--- | :--- |
+| **Adailton Junior Novais Mafra** | Engenharia de Software / RPA |
+| **Gabriel Dias Borges da Mota** | Backend & Database Specialist |
+| **Marcus Vinnycius Barbosa Oliveira** | Fullstack & Systems Integration |
+| **Pedro Andrade** | Quality Assurance & Data Analysis |
 
 ---
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a **Licença MIT**.  
+Este projeto está licenciado sob a **Licença MIT**.
 
 ---
-**Autores:**  
-<img src="https://img.shields.io/badge/Adailton Junior Novais Mafra-00008B?style=for-the-badge&logo=pyautogui&logoColor=white" alt="" alt=""> <br>
-<img src="https://img.shields.io/badge/Gabriel Dias Borges da Mota-00008B?style=for-the-badge&logo=pyautogui&logoColor=white" alt="" alt=""> <br>
-<img src="https://img.shields.io/badge/Marcus Vinnycius Barbosa Oliveira-00008B?style=for-the-badge&logo=pyautogui&logoColor=white" alt="" alt=""> <br>
-<img src="https://img.shields.io/badge/Pedro Andrade-00008B?style=for-the-badge&logo=pyautogui&logoColor=white" alt="" alt=""> <br>
+**Paulo Rocha Barra Advogados Associados** *Inovação a serviço da justiça.*
